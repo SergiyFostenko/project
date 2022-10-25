@@ -87,6 +87,43 @@ body{
     width: 187px;
     margin-left: 9px;
 }
+
+.grow{
+    margin:136px auto;  
+}
+.grow-title{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 45px;
+    color: #1C1C1C;
+    max-width: 415px;
+}
+.grow-flex{
+    display: flex;
+    gap: 34px;
+}
+.grow-element{
+    max-width: 330px;
+    text-align: center;
+}
+.grow-item{
+    padding: 35px 0 85px;
+    box-shadow: 0px 2px 4px rgba(192, 192, 192, 0.5);
+    border-radius: 0px 0px 7px 7px;
+}
+.grow-pretitle{ 
+    font-size: 26px;
+    line-height: 22px;
+    margin-bottom: 28px;
+}
+.grow-text{
+    font-size: 18px;
+    line-height: 22px;
+    color: #6F2CFF;
+    max-width: 219px;
+    margin: 0 auto;
+}
+
 .footer{
     background-color:#20003C;
     padding: 58px 0;
